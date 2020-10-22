@@ -6,6 +6,6 @@
 {% raw %}
 <button onclick="window.open('/Dataset/2007-2019-Housing-Inventory-Count-by-CoC.xlsx')">Download</button>
 {% endraw %}
- [Link](./Dataset/2007-2019-Housing-Inventory-Count-by-CoC.xlsx)
+ [Download dataset](Dataset/2007-2019-Housing-Inventory-Count-by-CoC.xlsx)
 This all will be hosted on GitHub pages
 
